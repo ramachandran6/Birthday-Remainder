@@ -1,6 +1,6 @@
 # Website
 
- view the app nby clicking -> [birthday-remainder.netlify.app](https://birthday-remainder.netlify.app/)
+ view the app by clicking -> [birthday-remainder.netlify.app](https://birthday-remainder.netlify.app/)
 
 # Getting Started with Create React App
 
